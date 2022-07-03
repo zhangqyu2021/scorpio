@@ -1,3 +1,3 @@
-# scorpio
-practice
-hello world!
+# July
+C++ Primer Plus
+Charpter 2
